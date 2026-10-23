@@ -148,7 +148,7 @@
     // ── 安全鉴权（推荐以 Secret 类型配置，见 .dev.vars.example）──────────
     //
     // JWT 签名密钥（>=16 字符，兼作字段加密与定时任务鉴权）
-    // "JWT_SECRET": "e8c71b3e9f42d65a8819ef3b704d9a1c62f019842f1b80d59247d81a9c3b5e40",
+    // "JWT_SECRET": "",
     //
     // 跳过安装向导，自动以该密码初始化 admin
     // "ADMIN_PASS": "",
