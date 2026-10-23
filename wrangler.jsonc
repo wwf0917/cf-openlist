@@ -29,7 +29,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
   "preview_urls": true,
-  "routes": [{ "pattern": "tj518.de5.net", "custom_domain": true }],
+  "routes": [{ "pattern": "cf-openlist.asdz.top", "custom_domain": true }],
 
   // ===========================================================================
   // Smart Placement
